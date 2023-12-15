@@ -4,8 +4,8 @@ This project aims to estimate photon statistics of various light sources using m
 # Project Overview
 The project has the following key objectives:
 
-Entanglement-based classification of vectors to different clusters using a photonic quantum computer 
-Photon statistics estimation of various light sources using ML/QML models
+* Entanglement-based classification of vectors to different clusters using a photonic quantum computer 
+* Photon statistics estimation of various light sources using ML/QML models
 
 # Methodology
 The key methods/algorithms used in this project are:
